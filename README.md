@@ -2,6 +2,10 @@
 
 A simple browser-based typing practice game built with HTML, CSS, and JavaScript.
 
+# Live link
+
+->> https://suman-max10.github.io/TypingGame/
+
 ## Features
 
 - Random passage selection on load and reset
