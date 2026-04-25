@@ -16,6 +16,7 @@ let mistake = 0;
 let isTyping = false;
 
 function loadParagraph() {
+//paragraphs
   const paragraph = [
     "Despite the fact that piranhas are relatively harmless, many people continue to believe the pervasive myth that piranhas are dangerous to humans.",
     "This impression of piranhas is exacerbated by their mischaracterization in popular media.",
