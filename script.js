@@ -7,7 +7,7 @@ const mistakes = document.querySelector('.mistake span');
 const wpmTag = document.querySelector('.wpm span');
 const cpm = document.querySelector('.cpm span');
 const btn = document.querySelector('button');
-
+// variables
 let timer;
 let maxTime = 60;
 let timeLeft = maxTime;
