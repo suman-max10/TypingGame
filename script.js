@@ -23,8 +23,16 @@ function loadParagraph() {
     "For example, the promotional poster for the 1978 horror film Piranha features an oversized piranha poised to bite the leg of an unsuspecting woman.",
     "Such a terrifying representation easily captures the imagination and promotes unnecessary fear.",
     "While the trope of the man-eating piranhas lends excitement to adventure stories, it bears little resemblance to the real-life piranha.",
+    "In reality, piranhas are generally timid creatures that prefer to avoid confrontation with humans whenever possible.",
+    "They are scavengers by nature and often feed on smaller fish, insects, and plant material rather than attacking large animals.",
+    "Scientific observations have shown that piranha attacks on humans are extremely rare and usually occur only under unusual circumstances, such as when food is scarce or the fish feel threatened.",
+    "Furthermore, many species of piranhas are actually omnivorous, meaning their diet is not limited to meat alone.",
+    "Researchers studying piranha behavior in their natural habitat have consistently found them to be cautious and easily frightened by sudden movements.",
+    "This evidence contradicts the exaggerated depictions seen in films and stories, highlighting the gap between fiction and reality.",
+    "By paying more attention to factual research and ecological studies, people can develop a more accurate understanding of these misunderstood fish.",
+    "Ultimately, dispelling such myths not only reduces unnecessary fear but also encourages respect for wildlife and the ecosystems they inhabit.",
     "By paying more attention to fact than fiction, humans may finally be able to let go of this inaccurate belief."
-  ];
+];
 
   const randomIndex = Math.floor(Math.random() * paragraph.length);
   typingText.innerHTML = '';
