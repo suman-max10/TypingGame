@@ -9,7 +9,7 @@ A simple browser-based typing practice game built with HTML, CSS, and JavaScript
 ## Features
 
 - Random passage selection on load and reset
-- Live tracking for time, mistakes, WPM, and CPM
+- Live tracking for time, mistakes, WPM, and CPM.
 - Keyboard-first gameplay with click-to-focus support
 - Reset button to start a new round
 
