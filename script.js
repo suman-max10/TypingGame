@@ -142,6 +142,7 @@ function reset(){
   mistakes.innerText = 0;
 }
 // Attach event
+
 input.addEventListener("input", initTyping);
 btn.addEventListener("click",reset);
 
