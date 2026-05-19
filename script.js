@@ -105,6 +105,7 @@ function initTyping() {
     }
 
     // CPM calculation (characters per minute)
+
     cpm.innerText = charIndex - mistake;
   }
 }
