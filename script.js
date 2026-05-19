@@ -79,6 +79,7 @@ function initTyping() {
 
 
 // active 
+
     chars.forEach(span => span.classList.remove('active'));
 
     if (chars[charIndex].innerText === typedChar) {
