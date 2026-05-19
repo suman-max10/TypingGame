@@ -117,6 +117,7 @@ function initTime() {
     time.innerText = timeLeft;
 
     // Correct WPM formula
+
     let wpm = Math.round(((charIndex - mistake) / 5) / ((maxTime - timeLeft) / 60));
     if (wpm < 0 || !wpm || wpm === Infinity) wpm = 0;
 
