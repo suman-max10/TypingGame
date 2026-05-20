@@ -63,7 +63,7 @@ function loadParagraph() {
   wpmTag.innerText = 0;
   cpm.innerText = 0;
 }
-
+// init typing
 function initTyping() {
   const chars = typingText.querySelectorAll('span');
   const typedChar = input.value.charAt(charIndex);
