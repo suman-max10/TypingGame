@@ -21,7 +21,6 @@ A simple browser-based typing practice game built with HTML, CSS, and JavaScript
 2. Start typing the highlighted text.
 3. Use **Try Again !!** to load a new passage and restart the timer.
 
-4. 
 
 ## Project Files
 
